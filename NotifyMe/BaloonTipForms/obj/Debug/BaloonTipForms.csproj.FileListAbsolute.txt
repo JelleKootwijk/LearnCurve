@@ -1,0 +1,52 @@
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.exe.config
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.exe
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.pdb
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.csprojResolveAssemblyReference.cache
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.Form1.resources
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.Properties.Resources.resources
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.csproj.GenerateResource.Cache
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.exe
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.pdb
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\obj\Debug\Interop.EnvDTE.dll
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\obj\Debug\Interop.VSLangProj.dll
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\obj\Debug\Interop.VSLangProj2.dll
+C:\Users\Jelle\source\repos\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.csproj.ResolveComReference.cache
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.exe.config
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.exe
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.pdb
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.csprojResolveAssemblyReference.cache
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\Interop.EnvDTE.dll
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\Interop.VSLangProj.dll
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\Interop.VSLangProj2.dll
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.csproj.ResolveComReference.cache
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.Form1.resources
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.Properties.Resources.resources
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.csproj.GenerateResource.Cache
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.csproj.CoreCompileInputs.cache
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.exe
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.pdb
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.exe.manifest
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.application
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.TrustInfo.xml
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.exe.manifest
+D:\Alles op D\School programeer dingen\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.application
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.csprojResolveAssemblyReference.cache
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.exe
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.pdb
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.exe.config
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.exe.manifest
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.application
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.exe
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\bin\Debug\BaloonTipForms.pdb
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\Interop.EnvDTE.dll
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\Interop.VSLangProj.dll
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\Interop.VSLangProj2.dll
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.csproj.ResolveComReference.cache
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.Form1.resources
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.Properties.Resources.resources
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.csproj.GenerateResource.Cache
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.csproj.CoreCompileInputs.cache
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.TrustInfo.xml
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.exe.manifest
+D:\Code stuff\Github\BaloonTip\BaloonTipForms\BaloonTipForms\obj\Debug\BaloonTipForms.application
