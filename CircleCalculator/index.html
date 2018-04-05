@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container">
+            <br>
+            <h1>Cirkle calculator</h1>  
+            <hr>     
+            <br>
+            <canvas id="canvas" style="border: 1px solid black;" height="400px" width="1110%"></canvas>
+            <br>
+            <br>
+            <form action="sketch.js">
+                <label for="">Diameter:</label>
+                <input type="text" id="inputDiameter">
+                <input type="button" value="calculate" id="calculateDiameter">
+                <br>
+                <label for="">Omtrek:</label>
+                <input type="text" id="inputOmtrek">
+                <input type="button" value="calculate" id="calculateOmtrek">
+                <br>
+                <label for="">Oppervlakte:</label>
+                <input type="text" id="inputOppervlakte">
+                <input type="button" value="calculate" id="calculateOppervlakte">
+                <br>
+                <input type="button" value="reset" id="resetCanvas">
+            </form>
+            <br>
+            <div class="row">
+                <div class="col-sm">
+                    <span>Diameter:</span>
+                    <p id='radius'>0</p>
+                    <span>Straal:</span>
+                    <p id='straal'>0</p>
+                </div>
+                <div class="col-sm">
+                    <span>Oppervlakte:</span>
+                    <p id='oppervlakte'>0</p> 
+                    <span>Omtrek:</span>
+                    <p id='omtrek'>0</p>   
+                </div>
+            </div>
+            
+            
+    </div>
+     
+    <script src="calculate.js"></script>
+    <script src="sketch.js"></script>
+</body>
+</html>
