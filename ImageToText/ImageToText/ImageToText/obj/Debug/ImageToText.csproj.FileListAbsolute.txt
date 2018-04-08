@@ -1,0 +1,10 @@
+C:\Users\Jelle\source\repos\ImageToText\ImageToText\bin\Debug\ImageToText.exe.config
+C:\Users\Jelle\source\repos\ImageToText\ImageToText\bin\Debug\ImageToText.exe
+C:\Users\Jelle\source\repos\ImageToText\ImageToText\bin\Debug\ImageToText.pdb
+C:\Users\Jelle\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.csprojResolveAssemblyReference.cache
+C:\Users\Jelle\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.Form1.resources
+C:\Users\Jelle\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.Properties.Resources.resources
+C:\Users\Jelle\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.csproj.GenerateResource.Cache
+C:\Users\Jelle\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.exe
+C:\Users\Jelle\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.pdb
