@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsThisWebsiteOnline", "IsThisWebsiteOnline\IsThisWebsiteOnline.csproj", "{7B940389-1310-4189-8B86-ED170E2FF9CF}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WebsiteChecker", "WebsiteChecker\WebsiteChecker.vdproj", "{BD8BB131-8EB6-46C9-92D0-5BC831C8A5A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{7B940389-1310-4189-8B86-ED170E2FF9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B940389-1310-4189-8B86-ED170E2FF9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B940389-1310-4189-8B86-ED170E2FF9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8BB131-8EB6-46C9-92D0-5BC831C8A5A5}.Debug|Any CPU.ActiveCfg = Debug
+		{BD8BB131-8EB6-46C9-92D0-5BC831C8A5A5}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
