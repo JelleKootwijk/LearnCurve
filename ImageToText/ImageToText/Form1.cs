@@ -44,12 +44,18 @@ namespace ImageToText
             if (firstImage.Width == secondImage.Width
             && firstImage.Height == secondImage.Height)
             {
-                for (int i = 0; i < firstImage.Width; i++)
+                for (int x = 0; x < firstImage.Width; x++)
                 {
-                    for (int j = 0; j < firstImage.Height; j++)
+                    for (int y = 0; y < firstImage.Height; y++)
                     {
-                        firstPixel = firstImage.GetPixel(i, j).ToString();
-                        secondPixel = secondImage.GetPixel(i, j).ToString();
+                        firstPixel = firstImage.GetPixel(x, y).ToString();
+                        secondPixel = secondImage.GetPixel(x, y).ToString();
+
+
+                        if (radioButton1.Checked)
+                        {
+                            System.IO.File.AppendAllText(@"D:\ImageDetails.txt", firstPixel);
+                        }
                         if (firstPixel != secondPixel)
                         {
                             flag = false;
@@ -77,7 +83,7 @@ namespace ImageToText
             {
                 ImageDetails(firstImage, secondImage);
 
-                label1.Text = "Width Not the same";
+                label1.Text = "Width/Height Not the same";
                 return false;
             }
         }

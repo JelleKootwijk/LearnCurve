@@ -8,3 +8,13 @@ C:\Users\Jelle\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.csproj
 C:\Users\Jelle\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.csproj.CoreCompileInputs.cache
 C:\Users\Jelle\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.exe
 C:\Users\Jelle\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.pdb
+D:\Code stuff\Github\LearnCurve\ImageToText\ImageToText\bin\Debug\ImageToText.exe.config
+D:\Code stuff\Github\LearnCurve\ImageToText\ImageToText\bin\Debug\ImageToText.exe
+D:\Code stuff\Github\LearnCurve\ImageToText\ImageToText\bin\Debug\ImageToText.pdb
+D:\Code stuff\Github\LearnCurve\ImageToText\ImageToText\obj\Debug\ImageToText.csprojResolveAssemblyReference.cache
+D:\Code stuff\Github\LearnCurve\ImageToText\ImageToText\obj\Debug\ImageToText.Form1.resources
+D:\Code stuff\Github\LearnCurve\ImageToText\ImageToText\obj\Debug\ImageToText.Properties.Resources.resources
+D:\Code stuff\Github\LearnCurve\ImageToText\ImageToText\obj\Debug\ImageToText.csproj.GenerateResource.Cache
+D:\Code stuff\Github\LearnCurve\ImageToText\ImageToText\obj\Debug\ImageToText.csproj.CoreCompileInputs.cache
+D:\Code stuff\Github\LearnCurve\ImageToText\ImageToText\obj\Debug\ImageToText.exe
+D:\Code stuff\Github\LearnCurve\ImageToText\ImageToText\obj\Debug\ImageToText.pdb

@@ -42,6 +42,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.lblImage2Width = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
@@ -169,11 +170,23 @@
             this.label7.TabIndex = 10;
             this.label7.Text = "Image 2:";
             // 
+            // radioButton1
+            // 
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.Location = new System.Drawing.Point(300, 157);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(92, 17);
+            this.radioButton1.TabIndex = 14;
+            this.radioButton1.TabStop = true;
+            this.radioButton1.Text = "Write to txt file";
+            this.radioButton1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(440, 222);
+            this.Controls.Add(this.radioButton1);
             this.Controls.Add(this.lblImage2Heigth);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.lblImage2Width);
@@ -190,7 +203,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
+            this.Text = "Image comparison";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.ResumeLayout(false);
@@ -214,6 +227,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label lblImage2Width;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.RadioButton radioButton1;
     }
 }
 
